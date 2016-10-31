@@ -1,0 +1,12 @@
+div.board {
+	height: 80%;
+	width: 50%;
+}
+div.card {
+	color: yellow;
+	height: 200px;
+	width: 150px
+	border-width: 1px;
+	border-color: black;
+	border-radius: 10px;
+}
